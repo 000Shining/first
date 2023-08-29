@@ -1,5 +1,5 @@
-Year onr Inventory
-vials =1,234
+Year two Inventory
+vials =300
 notebooks =236
-tools = 56  
+tools = 560
 
